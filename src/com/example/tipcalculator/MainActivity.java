@@ -9,8 +9,8 @@ import android.widget.EditText;
 
 @SuppressLint("DefaultLocale") 
 	
-	public class MainActivity extends Activity {
-		private EditText outputField;
+public class MainActivity extends Activity {
+	private EditText outputField;
 	
     @Override
     protected void onCreate(Bundle savedInstanceState) {
